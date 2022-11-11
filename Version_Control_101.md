@@ -22,5 +22,5 @@
 - Regroup to share your findings!
 
 > Example\
-![Excel_MaintainHistInfo.png](/Pictures/VC_ExActivity1_MaintainHistInfo.png)
+![Excel_ArchiveVersion.png](/Pictures/VC_ExActivity1_MaintainHistInfo.png)
 
