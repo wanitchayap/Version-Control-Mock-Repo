@@ -2,5 +2,7 @@
 
 1. Find restaurant/house
 2. What to eat?
+	- Pizza
+	- Beer
 3. Invite friends
 4. What game to play
