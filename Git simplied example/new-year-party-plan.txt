@@ -3,6 +3,9 @@
 1. Find restaurant/house
 2. What to eat?
 	- Pizza
-	- Beer
+	- Beer (+ juice for non-alcohol)
 3. Invite friends
 4. What game to play
+	- Karaoke
+	- Board games
+	- Drink all night
