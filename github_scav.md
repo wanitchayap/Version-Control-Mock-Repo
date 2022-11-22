@@ -10,4 +10,3 @@
 4. Who is currently waiting for their changes to be updated to the main code base?
 5. What are the changes waited to be updated? What is the amount of changes (how many additions & deletions)?
 6. How many pull requests are approved so far and by who?
-7. Kas tested out a commit before but his commit was deleted later by Mint. What did he commit?
