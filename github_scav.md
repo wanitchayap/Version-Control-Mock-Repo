@@ -1,7 +1,5 @@
 # GitHub Scavenger Hunt Challenge
 
-Hi I am editing this in VIM, testing to see if this works. >> Cool cool :)
-
 ## Examples
 1. Who created this GitHub repository?
 2. How many different versions are stored (number of commits?)
